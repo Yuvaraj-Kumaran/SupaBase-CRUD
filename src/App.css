@@ -1,0 +1,30 @@
+table{
+  border-collapse: collapse;
+  max-width: 900px;
+  width: 100%;
+  margin: 2rem;
+  margin-top: 0 !important;
+  border: 2px solid black;
+}
+table th {
+ border: 1px solid black; 
+ padding: 20px;
+}
+
+
+#root {
+  max-width: 1280px;
+  margin:0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
